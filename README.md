@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tharunkumar Reddy</h1>
+<h1 align="center">Hi 👋, I'm Adhuri Tharunkumar Reddy</h1>
 <h3 align="center">Software Engineering Graduate | Java • Cloud • Machine Learning</h3>
 
 <p align="center">
